@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jerseycityplumbingco.com/sitemap.xml
